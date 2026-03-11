@@ -2,6 +2,8 @@
 
 **BetterScholar** 是一个轻量级的 Tampermonkey（油猴）用户脚本，旨在无缝增强 Google Scholar（谷歌学术）的文献检索体验。它在不破坏原生极简 UI 的前提下，为您添加了强大的**多维度排序、标签化展示以及出版商侧边栏过滤**功能。
 
+![页面截图](example.png)
+
 ## ✨ 核心功能 (Features)
 
 - 📊 **高级排序 (Smart Sorting)**
