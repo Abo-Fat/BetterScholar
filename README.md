@@ -19,7 +19,7 @@
 ## 🚀 安装指南 (Installation)
 
 1. 首先，请确保您的浏览器已安装 [Tampermonkey (油猴)](https://www.tampermonkey.net/) 扩展。
-2. 点击此处安装脚本：稍后上传到Greasy Fork。
+2. 点击此处安装脚本：[Better Scholar](https://greasyfork.org/zh-CN/scripts/569246-better-scholar)。
 3. 或者，您也可以手动复制 `BetterScholar.js` 中的代码，在 Tampermonkey 中新建脚本并粘贴保存。
 
 ## 💻 使用方法 (Usage)
